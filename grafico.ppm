@@ -1,0 +1,11 @@
+P3 # "P3" significa que esta é uma imagem colorida RGB em ASCII
+3 2 # "3 2" é a largura e altura da imagem em pixels
+255 # "255" é o valor máximo para cada cor
+# A parte acima é o cabeçalho
+# A parte abaixo são os dados da imagem: trigêmeos RGB
+255 0 0 # vermelho
+  0 255 0 # verde
+  0 0 255 # azul
+255 255 0 # amarelo
+255 255 255 # branco
+  0 0 0 # preto
